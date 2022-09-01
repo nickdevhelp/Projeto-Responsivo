@@ -1,0 +1,20 @@
+{
+    "name": "DreamWorks Animation",
+    "short_name": "DreamWorks",
+    "description": "Web App para DreamWorks",
+    "display": "fullscreen",
+    "start_url":"index.html",    
+    "scope": "/",
+    
+    "icons": [
+        {
+            "src": "app-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "app-icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }]
+}
